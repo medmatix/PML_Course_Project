@@ -77,11 +77,11 @@ The HTML file you may be downloaded i.e. the repo and open the compiled HTML doc
 Alternatively may submit a repo with a gh-pages branch, so the HTML page may be viewed on the      
 web. If so the repo is: 
 
-    https://github.com/DataScienceSpecialization/courses/tree/master/08_PracticalMachineLearning/001predictionMotivation
+https://github.com/DataScienceSpecialization/courses/tree/master/08_PracticalMachineLearning/001predictionMotivation
 
 The HTML page should be viewable here: 
 
-    http://datasciencespecialization.github.io/courses/08_PracticalMachineLearning/001predictionMotivation/
+http://datasciencespecialization.github.io/courses/08_PracticalMachineLearning/001predictionMotivation/
 
 3. The authors describe what they expect the out of sample error to be and estimate the error appropriately with cross-validation?
 
