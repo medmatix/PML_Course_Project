@@ -70,17 +70,9 @@ and it will create one file for each submission.
 
 1. The github repo submitted
 
-2. Does the submission build a machine learning algorithm to predict activity quality from activity monitors?
-
-The HTML file you may be downloaded i.e. the repo and open the compiled HTML document. 
-
-Alternatively may submit a repo with a gh-pages branch, so the HTML page may be viewed on the      
-web. If so the repo is: 
-
+2. Does the submission build a machine learning algorithm to predict activity quality from activity monitors? The HTML file you may be downloaded i.e. the repo and open the compiled HTML document. Alternatively may submit a repo with a gh-pages branch, so the HTML page may be viewed on the web. If so the repo is: 
 https://github.com/DataScienceSpecialization/courses/tree/master/08_PracticalMachineLearning/001predictionMotivation
-
 The HTML page should be viewable here: 
-
 http://datasciencespecialization.github.io/courses/08_PracticalMachineLearning/001predictionMotivation/
 
 3. The authors describe what they expect the out of sample error to be and estimate the error appropriately with cross-validation?
