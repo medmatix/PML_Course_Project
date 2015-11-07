@@ -60,4 +60,30 @@ pml_write_files(answers)
 
 and it will create one file for each submission.
 
-*Note: if you use this script, please make sure the files that get written out have one character each with your prediction for the corresponding problem ID. I have noticed the script produces strange results if the answers variable is not a character vector.*
+**Note: if you use this script, please make sure the files that get written out have one character each with your prediction for the corresponding problem ID. I have noticed the script produces strange results if the answers variable is not a character vector.**
+
+## Points to Meet for Assessment  Guidelines
+
+###Evaluation/feedback on the above work
+
+**Note: filled out during the evaluation phase.**
+
+1. The github repo submitted
+
+2. Does the submission build a machine learning algorithm to predict activity quality from activity monitors?
+
+The HTML file you may be downloaded i.e. the repo and open the compiled HTML document. 
+
+Alternatively may submit a repo with a gh-pages branch, so the HTML page may be viewed on the      
+web. If so the repo is: 
+
+    https://github.com/DataScienceSpecialization/courses/tree/master/08_PracticalMachineLearning/001predictionMotivation
+
+The HTML page should be viewable here: 
+
+    http://datasciencespecialization.github.io/courses/08_PracticalMachineLearning/001predictionMotivation/
+
+3. The authors describe what they expect the out of sample error to be and estimate the error appropriately with cross-validation?
+
+4. Constructive feedback highlighting the submission's strengths and identifying some areas for improvement. Explain your grading decisions.
+
