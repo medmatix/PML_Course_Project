@@ -4,20 +4,16 @@
 
 ###Background
 
-Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. More information is available from the website here: http://groupware.les.inf.puc-rio.br/har (see the section on the Weight Lifting Exercise Dataset). 
+Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. More information is available from the website [here.](http://groupware.les.inf.puc-rio.br/har) (see the section on the Weight Lifting Exercise Dataset). 
 
 
 ###Data 
 
-The training data for this project are available here: 
+The training data for this project are available [here.](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv)
 
-https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+The test data are available [here](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv)
 
-The test data are available here: 
-
-https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
-
-The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har. If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their data to be used for this kind of assignment. 
+The data for this project come from [this source.](http://groupware.les.inf.puc-rio.br/har) If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their data to be used for this kind of assignment. 
 
 What you should submit
 
@@ -70,10 +66,9 @@ and it will create one file for each submission.
 
 1. The github repo submitted
 
-2. Does the submission build a machine learning algorithm to predict activity quality from activity monitors? The HTML file you may be downloaded i.e. the repo and open the compiled HTML document. Alternatively may submit a repo with a gh-pages branch, so the HTML page may be viewed on the web. If so the repo is: 
-https://github.com/DataScienceSpecialization/courses/tree/master/08_PracticalMachineLearning/001predictionMotivation
-The HTML page should be viewable here: 
-http://datasciencespecialization.github.io/courses/08_PracticalMachineLearning/001predictionMotivation/
+2. Does the submission build a machine learning algorithm to predict activity quality from activity monitors? The HTML file you may be downloaded i.e. the repo and open the compiled HTML document. Alternatively may submit a repo with a gh-pages branch, so the HTML page may be viewed on the web.If so, the repo is [here](https://github.com/DataScienceSpecialization/courses/tree/master/08PracticalMachineLearning/001predictionMotivation)
+
+The HTML page should be viewable [here.](http://datasciencespecialization.github.io/courses/08_PracticalMachineLearning/001predictionMotivation/)
 
 3. The authors describe what they expect the out of sample error to be and estimate the error appropriately with cross-validation?
 
