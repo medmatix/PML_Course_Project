@@ -2,7 +2,9 @@
 title: "PML Assignment Report"
 author: "David A York"
 date: "November 7, 2015"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ## Executive Summary
