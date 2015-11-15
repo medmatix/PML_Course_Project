@@ -8,13 +8,30 @@ output: html_document
 ## Executive Summary
 This project assignment studies a model to control for the effect of proper activity teqhnique by constructing a model to predict the occurence deviation from technique. The data to be use to construct a prediction model is from the [Human Activity Recognition](http://groupware.les.inf.puc-rio.br/har). 
 
-```{r }
+```{r echo=FALSE}
 # R Main Code Block
 # figures and tables are call by small code blocks for printing at the appropriate 
 #   places below.
 
+# load required libraries and functions
+library("caret")
+
+# fetch Training and Testing data
+fileUrlTrain <- "https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"
+fileUrlTest <-"https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv"
+download.file(fileUrlTrain, destfile = "train.csv")
+dateTrainDownloaded <- date()
+
+# save the download dates for reference
+download.file(fileUrlTest, destfile = "test.csv")
+dateTestDownloaded <- date()
+
+# read in the data files for training and testing
+trainingData <- read.csv("train.csv")
+testingData <- read.csv("teat.csv")
 
 ```
+
 
 
 
